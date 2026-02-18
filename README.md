@@ -22,6 +22,19 @@ This project demonstrates frontend engineering skills combined with backend inte
 
 ---
 
+## 📸 Screenshots
+
+### Login
+![Login](screenshots/login.png)
+
+### Register
+![Register](screenshots/register.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+---
+
 ## 🛠 Tech Stack
 
 Frontend:
