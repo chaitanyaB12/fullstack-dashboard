@@ -54,10 +54,11 @@ Backend:
 ---
 
 ## 📁 Project Structure
-
+```
 fullstack-dashboard/
 client/   (React frontend)  
 server/   (Node + Express backend)
+```
 
 ---
 
